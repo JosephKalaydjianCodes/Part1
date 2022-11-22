@@ -1,12 +1,12 @@
 <html>
-<head>
-My webpage
+<head> 
+<tittle>My webpage</tittle?
 </head> 
 <body>
-<h1> My Favrotie Things </h1> 
+<h1>My Favrotie Things</h1> 
 <p>
-Raindrops on Roses <br>
-Whiskers on kittens
+Raindrops on <em>Roses</em><br>
+Whiskers on <strong>kittens</strong>
 </p>
 </body>
 </html>
